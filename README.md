@@ -1,5 +1,5 @@
 # Kickstarter-Challenge
-Deep analysis of Kickstarter´s campaigns 
+Based Data about Kickstarter campaigns
 
 ## Overview of Project
 It´s a deep analysis of outcomes of Kickstarter´s campaigns related to their launch date and their goals.
@@ -14,13 +14,13 @@ Something important in doing analysis, is being confident that the information i
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](C:\Users\Alejandra Cano\Documents\DATA ANALYTICS AND VISUALISATION\MODULE 1\Challenge1\Resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
 
 Based on this chart the launched date has an association with the success of the campaign. May, June, and July are the better months to launch the theater campaign with an outcome upper than 80. The failed line is similar during the year between 30 and 50 outcomes, May is the upper Month with 52 outcomes, however, the success in this month is 100 outcomes, so is convenient to launch the campaign this month, there is more to win than lose. The canceled line is not significant in this chart.
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes based on Goals](C:\Users\Alejandra Cano\Documents\DATA ANALYTICS AND VISUALISATION\MODULE 1\Challenge1\Resources\Outcomes_vs_Goals.png)
+![Outcomes based on Goals](Outcomes_vs_Goals.png)
 
 Based on this chart the upper percentage of successful in plays campaign is when the goal is less than $1,000 with 76%  of the projects. And the second is when the Goal is between $35,000 and $44,999 with 67% of the projects. On the contrary, the upper percentage of failed in plays campaigns are projected greater than $50,000 with 83%, then the projects between $25,000 and $29,999 with 80%. As a result, is more probably to have success if the plays campaign has a goal of less than $1,000, and then a campaign with a goal between $35,000 and $44,999 in this case, improves the probability of success and reduce the probability of failure. 
 
